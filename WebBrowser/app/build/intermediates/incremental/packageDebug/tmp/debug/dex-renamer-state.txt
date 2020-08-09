@@ -1,0 +1,4 @@
+#Sat Aug 08 23:23:48 BOT 2020
+base.0=C\:\\Users\\Pichau\\AndroidStudioProjects\\Web-Browser\\WebBrowser\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
